@@ -1,8 +1,8 @@
-# TP-28-SonarQube-local-Analyse-d-un-projet-Java-Maven-lecture-Quality-Gate-et-issues
+## TP-28-SonarQube-local-Analyse-d-un-projet-Java-Maven-lecture-Quality-Gate-et-issues
 
-<img width="959" height="505" alt="1" src="https://github.com/user-attachments/assets/9a6e2b19-692d-4150-9c15-4c9e8e62f160" />
+<img width="750" height="303" alt="image" src="https://github.com/user-attachments/assets/dc8ac103-5600-404c-9e40-61aaa3312e41" />
 
-<img width="959" height="455" alt="2" src="https://github.com/user-attachments/assets/13b0ef54-0ceb-45b6-8511-004503e1b854" />
+<img width="1062" height="440" alt="image" src="https://github.com/user-attachments/assets/fc3bc8af-5cf2-4a25-89ff-7cc066c82f48" />
 <img width="553" height="618" alt="4" src="https://github.com/user-attachments/assets/b9b7e1e8-95d8-45a8-8dee-58e90d7c1773" />
 
 <img width="894" height="411" alt="5" src="https://github.com/user-attachments/assets/fda2e470-b88d-4ad9-b16b-2c99cd9e9d7d" />
